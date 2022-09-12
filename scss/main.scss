@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+//estilo header
+@import './secciones/navbar';
+//estilo main
+@import './secciones/carousel';
+@import './secciones/guias';
+@import './secciones/index';
+@import './secciones/ingresar';
+@import './secciones/noticias';
+@import './secciones/resenias';
+@import './secciones/sugerencias';
+//estilo footer
+@import './secciones/footer';

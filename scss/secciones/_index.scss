@@ -1,0 +1,47 @@
+.main-main{
+    background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+}
+
+.title{
+    color: black;
+    border: 3px solid black;
+    text-align: center;
+    margin-top: 3px;
+    
+    a{
+        color: black;
+        text-align: center;
+        text-decoration: none;
+    }
+}
+
+.imgmain{
+
+    max-width: 650px;
+    margin: 20px 200px;
+}
+
+.subtitle{
+    text-align: center;
+
+}
+
+.caja1{
+    background-color: white;
+    border: 3px solid black;
+    margin: 30px 20px;
+    padding: auto;
+    max-width: min-content;
+    display: grid;
+}
+
+.caja2{
+    background-color: white;
+    border: 3px solid black;
+    margin: 30px 20px 30px 236px;
+    padding: auto;
+    max-width:max-content;
+    align-items: center;
+    justify-content: space-around;
+    display: grid; 
+}
